@@ -1,0 +1,2 @@
+ik ben aan het oefenen
+print ("Oefenen")
