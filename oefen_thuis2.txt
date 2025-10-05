@@ -1,2 +1,7 @@
 ik ben aan het oefenen
 print ("Oefenen")
+
+nog meer oefeningen 
+
+
+++++"print ("meer oefeningen")
